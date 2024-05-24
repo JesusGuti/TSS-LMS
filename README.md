@@ -6,7 +6,7 @@ Antes de clonar el repositorio debe isntalar las siguientes dependencias
 
 # INSTALACIÓN 
 1. Clonar el proyecto en la carpeta `xampp/htdocs/tss-lms`
-2. Seleccione el archivo php.ini haciendo click en la opción de Apache->Config y cambie por el 
+2. Reemplace el archivo `php.ini` en la carpeta `xampp/php` este ya viene con los cambios para añadir las extensiones
 
 ![alt text](image.png) 
 3. Copie la extensión libsodium.dll en la carpeta `xampp/apache/bin`
